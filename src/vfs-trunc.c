@@ -1,0 +1,1 @@
+//vfs-trunc - trunca los archivos indicados a longitud cero
