@@ -56,6 +56,6 @@ int main(int argc, char *argv[]) {
         }
     }
 
-    // estudiante1: fin del programa
+    //fin del programa
     return 0;
 }
